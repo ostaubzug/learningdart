@@ -14,4 +14,7 @@ void main() {
   print(score);
   print(percentage);
   print(name);
+  print(company);
+  print(isvalid);
+  print(count);
 }
